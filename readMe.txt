@@ -1,3 +1,22 @@
+# Sorting Visualizer
+An interactive sorting visualization tool using React, JavaScript, HTML, and CSS.  
+
+## Features
+- Visualizes Bubble Sort, Insertion Sort, and Selection Sort
+- User controls for speed and data size adjustments
+- Color-coded transitions for better algorithm understanding
+
+## How to Run
+1. Clone this repository.
+2. Install dependencies: `npm install`
+3. Start the project: `npm start`
+
+## Technologies Used
+- React, HTML, CSS, JavaScript
+
+
+
+
 npm
 npm i -g yarn
 yarn create react -app .
